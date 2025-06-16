@@ -1,0 +1,68 @@
+.login{
+	width:25%;
+	position:relative;
+	top:75px;
+	left:37%;
+	box-shadow:10px 10px 15px black;
+}
+.lbody{
+	background-color:#F8EDE3;
+	padding:10 10 10px 10px;
+	border-radius:0 0 5px 5px;
+	
+}
+.log{
+	background:#009EFF;
+	padding:10px 0 10px 10px;
+	border-radius:5px 5px 0 0;
+}
+.log h3{
+	color:white;
+	font-size:23px;
+	margin-top: 0px;
+    margin-bottom: 0px;
+}
+td:first-child{
+  text-align: center;
+  vertical-align: middle;
+  padding-bottom:19px;
+  padding-right:5px;
+}
+.opt{
+	font-family: Lucida Console,Courier New, monospace;
+	margin-left:10px;
+	border:none;
+	padding:5px;
+	border-radius:5px;
+}
+b{
+	font-size:18px;
+}	
+.save{
+	
+	height:30px;
+	width:70px;
+	font-size:16px;
+	border:1px solid black;
+	align:center;
+	border-radius:5px;
+	
+}
+.save:hover{
+		background:#1A0000;
+		color:white;
+}
+.table th{
+	
+	padding-bottom:20px;
+}
+.add th,td{
+	padding-bottom:20px;
+}
+
+.drop{
+	padding-bottom:20px;
+}
+h3{
+	font-family:cursive;
+}

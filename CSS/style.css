@@ -1,0 +1,45 @@
+.login{
+	width:25%;
+	position:relative;
+	top:75px;
+	left:37%;
+	box-shadow:10px 10px 15px black;
+}
+.ltitle{
+	background:#009EFF;
+	padding:10px;
+	color:white;
+	font-size:25px;
+	border-radius:5px 5px 0 0;
+}
+
+.lbody{
+	background:#F5EBE0;
+	padding:0 0 10px 10px;
+	border-radius:0 0 5px 5px;
+}
+.inpt-pas img{
+	height:15px;
+	width:15px;
+}
+.inpt-email img{
+	height:15px;
+	width:15px;
+}
+.log{
+	background-image:linear-gradient(white,skyblue);
+	height:30px;
+	width:70px;
+	font-size:16px;
+	border:none;
+	
+}
+.log:hover{
+	background-image:linear-gradient(skyblue,white);
+}
+h2{
+	margin-left:570px;
+	position:relative;
+	top:80px;
+	font-size:30px;
+}
